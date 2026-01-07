@@ -28,11 +28,17 @@ Furniture AutoCAD plugin
 
 https://www.autocad-student.com/autocad-furniture-library/
 
-Autocad furniture library
+AutoCAD furniture library
 
 How to Insert  Furniture Block in Autocad- Furniture 2D Block in Autocad Tutorial
 
 How To Use Autocad To Quickly Design Furniture
+
+
+https://cad-blocks.net/furnitures-cad-blocks-beds-plan.html
+
+
+https://measuredsurvey365.co.uk/autocad-blocks/
 
 
 ## 4.
@@ -67,4 +73,17 @@ How To Use Autocad To Quickly Design Furniture
 4．奋斗意愿：
 4年融合联接产品开发、测试、维护经验，未来希望可以掌握更多中间件(Netty,Redis)的原理，掌握云原生产品和大数据产品(Kubernetes,Hadoop,Flink等)的基本使用和原理，为解决复杂和频发问题、提升运维效率提供技术支撑，为产品演进提供明确的方向。
 
-## 5.
+## 5.全屋定制设计高效绘图CAD插件实操案例
+
+
+全屋定制设计高效绘图CAD插件实操案例
+
+Whole house custom design efficient drawing CAD plug-in practical case
+Whole house  CAD plugin 
+
+
+https://blog.csdn.net/htzss1990/article/details/155024342
+
+
+>  源泉设计CAD插件下载及使用教程
+> https://blog.csdn.net/gitblog_09703/article/details/143016241
