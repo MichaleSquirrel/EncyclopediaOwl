@@ -26,6 +26,10 @@ github cad plugins interior design
 Furniture autoCAD plugin
 Furniture AutoCAD plugin
 
+https://www.autocad-student.com/autocad-furniture-library/
+
+Autocad furniture library
+
 How to Insert  Furniture Block in Autocad- Furniture 2D Block in Autocad Tutorial
 
 How To Use Autocad To Quickly Design Furniture
