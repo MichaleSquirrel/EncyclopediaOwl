@@ -12,13 +12,23 @@ https://github.com/ThinkerHua/Muggle-AutoCAD-Plugins
 https://github.com/openscad/openscad
 
 
+
+
 https://blog.csdn.net/j8267643/article/details/136547564
 
 濮汇工具
 https://puhuitool.com/download/
+家具行业提供高效CAD插件解决方案的技术公司
 
 
 github cad plugins interior design
+
+Furniture autoCAD plugin
+Furniture AutoCAD plugin
+
+How to Insert  Furniture Block in Autocad- Furniture 2D Block in Autocad Tutorial
+
+How To Use Autocad To Quickly Design Furniture
 
 
 ## 4.
@@ -53,3 +63,4 @@ github cad plugins interior design
 4．奋斗意愿：
 4年融合联接产品开发、测试、维护经验，未来希望可以掌握更多中间件(Netty,Redis)的原理，掌握云原生产品和大数据产品(Kubernetes,Hadoop,Flink等)的基本使用和原理，为解决复杂和频发问题、提升运维效率提供技术支撑，为产品演进提供明确的方向。
 
+## 5.

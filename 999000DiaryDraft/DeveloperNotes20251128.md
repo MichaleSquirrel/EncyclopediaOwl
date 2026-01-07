@@ -135,7 +135,7 @@ https://blog.csdn.net/gitblog_00798/article/details/155293692
 
 
 ## 7.Obsidian Task Dashboard
-![2025-11-29_085006.jpg](pic/2025-11-29_085006.jpg)
+![2025-11-29_085006.jpg](pic20260107/2025-11-29_085006.jpg)
 ### 7.1 Ready
 
 ```tasks 
