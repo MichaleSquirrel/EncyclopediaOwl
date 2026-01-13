@@ -84,6 +84,13 @@ Whole house  CAD plugin
 
 https://blog.csdn.net/htzss1990/article/details/155024342
 
+https://blog.csdn.net/htzss1990/article/details/155024342
 
 >  源泉设计CAD插件下载及使用教程
 > https://blog.csdn.net/gitblog_09703/article/details/143016241
+
+
+猫老师，lisp可以用来写AutoCAD的插件是吧，我一个亲戚搞室内设计的，需要用到濮汇工具
+https://blog.csdn.net/htzss1990/article/details/155024342
+https://puhuitool.com/download/
+我了解了一下才知道这是用lisp写的
