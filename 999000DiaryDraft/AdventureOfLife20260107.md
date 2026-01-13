@@ -65,7 +65,7 @@ https://measuredsurvey365.co.uk/autocad-blocks/
 2) 能熟练使用SpringBoot开发Java后台应用，能基于Lua和OpenResty开发高性能Web平台，熟悉Elasticsearch能编写DSL，熟悉RocketMQ原理
 3) 7年Android开发经验，熟练掌握Android应用开发技术，并能独立开发和维护应用程序。
 4) 能熟练使用BurpSuite对软件产品进行安全测试，发现软件存在的安全问题(如XSS,CSRF,SSRF)；
-5) 熟悉主要加密算法原理，能发现软件产品在加密算法使用上存在的问题。
+5) 熟悉主要加密算法原理，能发现软件产品在加密算法使用上存在的问题。 
    可信认证：已通过华为软件开发能力Java工作级认证，未来规划工作级认证
    未来规划：熟悉融合联接数据和消息模块产品的主要原理和功能，和市场上已有的同类型产品进行竞品分析，对产品未来演进有明确的方向
 
