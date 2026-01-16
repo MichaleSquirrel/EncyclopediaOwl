@@ -94,3 +94,8 @@ https://blog.csdn.net/htzss1990/article/details/155024342
 https://blog.csdn.net/htzss1990/article/details/155024342
 https://puhuitool.com/download/
 我了解了一下才知道这是用lisp写的
+
+
+## 7.望仔
+
+https://wangzai.yinwang.com/
