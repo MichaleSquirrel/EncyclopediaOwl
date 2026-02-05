@@ -200,3 +200,32 @@ grep "/log/request" *.log
 5. 学习openResty和Lua
 6. 学习RocketMQ
 7. 
+
+
+## 8.同事信息
+
+姓名 lishuangping 30036208
+账号 l30036208
+手机 +86 15779384052(李双平)
+邮箱 lishuangping1@h-partners.com
+服务部门 智能汽车解决方案数字化及IT装备部(智能汽车解决方案BU)
+部门主管 丁旭
+当地时间 08:53（24小时制）
+
+姓名 linanqing 30036344
+账号 l30036344
+手机 +86 17773067125
+邮箱 linanqing@h-partners.com
+服务部门 智能汽车解决方案数字化及IT装备部(智能汽车解决方案BU)
+部门主管 丁旭
+地址 中国(China) -深圳(Shenzhen)-龙华区九华山A1栋
+座位 3楼
+当地时间 08:53（24小时制）
+
+姓名 lishaolong 30046743
+账号 l30046743
+手机 +86 15827516605
+邮箱 lishaolong17@h-partners.com
+服务部门 智能汽车解决方案数字化及IT装备部(智能汽车解决方案BU)
+部门主管 丁旭
+当地时间 08:53（24小时制）
