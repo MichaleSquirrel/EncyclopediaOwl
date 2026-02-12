@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999000DiaryDraft/AdventureOfLife20260206.md",
+                "file": "999000DiaryDraft/AdventureOfLife20260212.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AdventureOfLife20260206"
+              "title": "AdventureOfLife20260212"
             }
           }
         ]
@@ -191,10 +191,13 @@
   },
   "active": "24ce64bc4f10380c",
   "lastOpenFiles": [
+    "999000DiaryDraft/AdventureOfLife20260212.md~",
+    "999000DiaryDraft/img.png",
+    "999000DiaryDraft/AdventureOfLife20260206.md",
+    "999000DiaryDraft/AdventureOfLife20260212.md",
     "999000DiaryDraft/AdventureOfLife20260206.md~",
     "999000DiaryDraft/AdventureOfLife20260205.md~",
     "999000DiaryDraft/AdventureOfLife20260205.md",
-    "999000DiaryDraft/AdventureOfLife20260206.md",
     "999000DiaryDraft/AdventureOfLife20260204.md",
     "Tools/工作簿1.xlsx",
     "Tools/FE616A00",
@@ -207,12 +210,10 @@
     "Tools/春节加班请假统计模版.xlsx",
     "Tools/2025年引望IT平台年底保障巡检.xlsx",
     "999000DiaryDraft/AdventureOfLife20260204.md~",
-    "999000DiaryDraft/AdventureOfLife20260203.md~",
     "999000DiaryDraft/AdventureOfLife20260203.md",
     "999000DiaryDraft/AdventureOfLife20260202.md",
     "999000DiaryDraft/AdventureOfLife20260201.md",
     "999000DiaryDraft/AdventureOfLife20260131.md",
-    "999000DiaryDraft/AdventureOfLife20260121.md~",
     "999000DiaryDraft/AdventureOfLife20260130.md",
     "999000DiaryDraft/AdventureOfLife20260129.md",
     "999000DiaryDraft/AdventureOfLife20260128.md",
@@ -226,7 +227,6 @@
     "999000DiaryDraft/AdventureOfLife20260120.md",
     "999000DiaryDraft/AdventureOfLife20260119.md",
     "999000DiaryDraft/AdventureOfLife20260118.md",
-    "999000DiaryDraft/AdventureOfLife20260116.md",
     "999000DiaryDraft/pic20260107/2026-01-07_181510.png",
     "950000Friends/953000Workmate/953010Godness/pic/Image_20250803191855.jpg",
     "950000Friends/953000Workmate/953010Godness/pic/A0CECE8D-C3F6-43D4-8B81-C13C72B7D264.jpeg",
@@ -235,7 +235,6 @@
     "950000Friends/953000Workmate/953010Godness/pic/5B6437E5-7802-4715-97B7-B316A085EE80.jpeg",
     "950000Friends/953000Workmate/953010Godness/pic/4ACED49E-140E-41D4-82B7-33FA1E246527.jpeg",
     "930000EncyclopediaOwl/930099Account/pic/2025-08-18_074134.png",
-    "910004出国建议/pic/Weixin_Image_20250713194102_49.jpg",
-    "910004出国建议/pic/Weixin_Image_20250713194034_48.jpg"
+    "910004出国建议/pic/Weixin_Image_20250713194102_49.jpg"
   ]
 }
