@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "d8ad254405094906",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b10646e84bb03d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ce64bc4f10380c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999000DiaryDraft/AdventureOfLife20260211.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AdventureOfLife20260211"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1eeed5fb7c1324c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c19673505e337478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c3897144b7dd3c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b89f78c58907616",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd0abafc3d341012",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82e31923d74ff435",
+    "type": "split",
+    "children": [
+      {
+        "id": "899e30ada2f75dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4933ab59a94b4c82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "931000Diary/AdventureOfLife20250826.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AdventureOfLife20250826"
+            }
+          },
+          {
+            "id": "384848ceffaca801",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6d356801f912624f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72b0c4c3ad2bc44c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "931000Diary/AdventureOfLife20250826.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AdventureOfLife20250826"
+            }
+          },
+          {
+            "id": "e431a5c6d11f9b41",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c5a524382c2d1706",
+            "type": "leaf",
+            "state": {
+              "type": "chinese-calendar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "chinese-calendar-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "24ce64bc4f10380c",
+  "lastOpenFiles": [
+    "999000DiaryDraft/AdventureOfLife20260209.md",
+    "999000DiaryDraft/AdventureOfLife20260208.md",
+    "999000DiaryDraft/AdventureOfLife20260205.md",
+    "999000DiaryDraft/AdventureOfLife20260204.md",
+    "999000DiaryDraft/AdventureOfLife20260206.md",
+    "999000DiaryDraft/AdventureOfLife20260212.md~",
+    "999000DiaryDraft/AdventureOfLife20260209.md~",
+    "999000DiaryDraft/AdventureOfLife20260218.md",
+    "999000DiaryDraft/AdventureOfLife20260217.md",
+    "999000DiaryDraft/AdventureOfLife20260216.md",
+    "999000DiaryDraft/AdventureOfLife20260215.md",
+    "999000DiaryDraft/AdventureOfLife20260214.md",
+    "999000DiaryDraft/AdventureOfLife20260213.md",
+    "999000DiaryDraft/AdventureOfLife20260211.md",
+    "999000DiaryDraft/AdventureOfLife20260210.md",
+    "999000DiaryDraft/AdventureOfLife20260208.md~",
+    "999000DiaryDraft/AdventureOfLife20260212.md",
+    "999000DiaryDraft/img.png",
+    "999000DiaryDraft/AdventureOfLife20260206.md~",
+    "999000DiaryDraft/AdventureOfLife20260205.md~",
+    "Tools/工作簿1.xlsx",
+    "Tools/FE616A00",
+    "Tools/~$工作簿1.xlsx",
+    "Tools/Tcpdump抓包和内容查看.md",
+    "Tools/验证FTS方法.md",
+    "Tools/引望测试环境FTS部署过程记录.md",
+    "Tools/引望LiveFlow测试环境租户侧服务器系统升级过程记录.md",
+    "Tools",
+    "Tools/春节加班请假统计模版.xlsx",
+    "999000DiaryDraft/AdventureOfLife20260203.md",
+    "999000DiaryDraft/AdventureOfLife20260202.md",
+    "999000DiaryDraft/AdventureOfLife20260201.md",
+    "999000DiaryDraft/AdventureOfLife20260131.md",
+    "999000DiaryDraft/AdventureOfLife20260130.md",
+    "999000DiaryDraft/AdventureOfLife20260129.md",
+    "999000DiaryDraft/AdventureOfLife20260128.md",
+    "999000DiaryDraft/pic20260107/2026-01-07_181510.png",
+    "950000Friends/953000Workmate/953010Godness/pic/Image_20250803191855.jpg",
+    "950000Friends/953000Workmate/953010Godness/pic/A0CECE8D-C3F6-43D4-8B81-C13C72B7D264.jpeg",
+    "950000Friends/953000Workmate/953010Godness/pic/834FB1D9-CFDA-4018-B546-480C1C36C963.jpeg",
+    "950000Friends/953000Workmate/953010Godness/pic/74F4A26E-B43E-4C45-922F-B019A331B74E.jpeg",
+    "950000Friends/953000Workmate/953010Godness/pic/5B6437E5-7802-4715-97B7-B316A085EE80.jpeg",
+    "950000Friends/953000Workmate/953010Godness/pic/4ACED49E-140E-41D4-82B7-33FA1E246527.jpeg",
+    "930000EncyclopediaOwl/930099Account/pic/2025-08-18_074134.png",
+    "910004出国建议/pic/Weixin_Image_20250713194102_49.jpg"
+  ]
+}
