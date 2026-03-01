@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999000DiaryDraft/AdventureOfLife20260224.md",
+                "file": "999000DiaryDraft/AdventureOfLife20260301.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AdventureOfLife20260224"
+              "title": "AdventureOfLife20260301"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -179,20 +179,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "24ce64bc4f10380c",
   "lastOpenFiles": [
-    "999000DiaryDraft/AdventureOfLife20260224.md~",
+    "999000DiaryDraft/AdventureOfLife20260228.md~",
+    "999000DiaryDraft/AdventureOfLife20260301.md~",
+    "999000DiaryDraft/AdventureOfLife20260228.md",
+    "999000DiaryDraft/AdventureOfLife20260301.md",
+    "999000DiaryDraft/AdventureOfLife20260226.md~",
+    "999000DiaryDraft/AdventureOfLife20260225.md~",
+    "999000DiaryDraft/AdventureOfLife20260227.md",
+    "999000DiaryDraft/AdventureOfLife20260226.md",
+    "999000DiaryDraft/AdventureOfLife20260225.md",
     "999000DiaryDraft/AdventureOfLife20260224.md",
+    "999000DiaryDraft/AdventureOfLife20260224.md~",
     "999000DiaryDraft/AdventureOfLife20260209.md",
     "999000DiaryDraft/AdventureOfLife20260208.md",
     "999000DiaryDraft/AdventureOfLife20260205.md",
@@ -214,20 +223,11 @@
     "999000DiaryDraft/AdventureOfLife20260206.md~",
     "999000DiaryDraft/AdventureOfLife20260205.md~",
     "Tools/工作簿1.xlsx",
-    "Tools/FE616A00",
-    "Tools/~$工作簿1.xlsx",
     "Tools/Tcpdump抓包和内容查看.md",
     "Tools/验证FTS方法.md",
     "Tools/引望测试环境FTS部署过程记录.md",
     "Tools/引望LiveFlow测试环境租户侧服务器系统升级过程记录.md",
-    "Tools",
-    "Tools/春节加班请假统计模版.xlsx",
     "999000DiaryDraft/AdventureOfLife20260203.md",
-    "999000DiaryDraft/AdventureOfLife20260202.md",
-    "999000DiaryDraft/AdventureOfLife20260201.md",
-    "999000DiaryDraft/AdventureOfLife20260131.md",
-    "999000DiaryDraft/AdventureOfLife20260130.md",
-    "999000DiaryDraft/AdventureOfLife20260129.md",
     "999000DiaryDraft/pic20260107/2026-01-07_181510.png",
     "950000Friends/953000Workmate/953010Godness/pic/Image_20250803191855.jpg",
     "950000Friends/953000Workmate/953010Godness/pic/A0CECE8D-C3F6-43D4-8B81-C13C72B7D264.jpeg",
