@@ -1,20 +1,20 @@
 Tuesday May 5 Day 125 week 19 of 2026
 
 ## 1.TodoList
-
+1. 设计模式学习
 
 
 
 ## 2.MCA课程学习进度
 
 2026年05月5号学习进展：
-1. 复习
-2. 阅读
-   大概用时：小时
+1. 复习《23种设计模式精讲》  
+2. 学习UML和RationalRose软件的使用  
+   大概用时：4小时
 
-
-## 3.
-
+## 3.RationalRose  
+  
+PowerDesign
 遇到的问题:  
 把2组2从中的一组通过 mqadmin updateBrokerConfig 改为只读，但是master的OutTPS，总是不能归零，有什么办法解决吗？原计划是等全部归零后把服务器关机，把CentOS升级成别的系统。  
   
