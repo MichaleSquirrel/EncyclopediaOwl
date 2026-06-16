@@ -14,3 +14,6 @@ Friday June 5 Day 156 week 23 of 2026
 
 
 ## 3.
+
+
+https://www.youtube.com/watch?v=12vLI7wLqbs
