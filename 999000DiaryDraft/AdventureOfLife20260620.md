@@ -1,7 +1,9 @@
 Saturday June 20 Day 171 week 25 of 2026
 
 ## 1.TodoList
-
+1. MQS服务各组件部署图整理
+2. 整理MQS各个组件升级要点
+3. 雨伞快掉了，买个新的
 
 
 

@@ -1,6 +1,13 @@
 Saturday June 27 Day 178 week 26 of 2026
 
 ## 1.TodoList
+1. 写Roma3C清理脚本
+2. AI马拉手比赛的题
+3. AI巡检
+4. APIG本地数据库搭建
+5. 上架LiveRPA
+6. 黑芝麻糊吃完后换乌须白发丸
+7. 微信号换手机
 
 
 
