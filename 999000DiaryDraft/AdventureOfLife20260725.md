@@ -39,7 +39,8 @@ Saturday July 25 Day 206 week 30 of 2026
 36. 分账项目投入和编写代码
 37. 优秀框架代码阅读
 38. 和晚辈们wechat，以前的同事Wechat
-39. 两个笔记本建立一个局域网，搭建一个个人仓库，Mac是服务器，Windows是客户端s
+39. 两个笔记本建立一个局域网，搭建一个个人仓库，Mac是服务器，Windows是客户端
+40. 买鞋和买裤子买衬衣
 
 
 
@@ -51,4 +52,12 @@ Saturday July 25 Day 206 week 30 of 2026
    大概用时：小时
 
 
-## 3.
+## 3.周卫巍
+
+claude code教程：https://www.bilibili.com/video/BV1wUpWz7EZk/?spm_id_from=888.80997.embed_other.whitelist&bvid=BV1wUpWz7EZk
+
+
+https://www.douyin.com/video/7599288720986098971
+抖音上这个专栏讲的还不错，可以了解大模型的历程
+
+
