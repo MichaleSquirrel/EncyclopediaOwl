@@ -41,8 +41,8 @@ Saturday July 25 Day 206 week 30 of 2026
 38. 和晚辈们wechat，以前的同事Wechat
 39. 两个笔记本建立一个局域网，搭建一个个人仓库，Mac是服务器，Windows是客户端
 40. 买鞋和买裤子买衬衣
-1. 代码Python提交
-2. IDEA如何插入当前时间
+41. 代码Python提交
+42. IDEA如何插入当前时间
 
 
 ## 2.MCA课程学习进度
