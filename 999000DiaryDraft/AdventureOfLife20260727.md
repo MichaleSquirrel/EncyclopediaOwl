@@ -79,3 +79,62 @@ Spring MyBatis Netty Guava RocketMQ
 19. 招商银行储蓄国债申请  
 20. 房东李水燕女儿找工作  
 21. 8月12号考试，科目一考试
+
+## 10.UML工具使用更新
+
+因办公环境不让使用Enterprise Architect 17 ，需要寻找Enterprise Architect 17 的替代产品。
+
+
+https://www.visual-paradigm.com/cn/download/?platform=windows&arch=64bit
+
+
+https://github.com/ModelioOpenSource/Modelio
+
+
+
+visual-paradigm 添加设计模式类图
+
+Enterprise Architect 17 工具使用指南，适配器设计模式的变形
+
+
+## 11.MCA课程学习规划
+1. NO0250_多线程与高并发实战
+2. NO0340_IO精讲
+3. NO1758_Netty底层原理与源码分析
+4. NO2323_Dubbo3源码精讲
+5. NO2374_RocketMQ5新特性与源码分析
+6. UML 2面向对象分析与设计 微课版_14545165
+7. 科目四考试，下次科目四考试确保通过。
+8. 先学习多线程，再打牢基础
+9. 然后学习框架源码，Spring MyBatis Netty Guava RocketMQ
+10. 然后提升java代码能力
+
+
+## 12.乌须黑发丸有效性调查
+
+
+
+## 13.AgentGateway设计图，类图整理作为交付件
+
+
+
+## 14.长连接如何优雅断开？
+
+
+
+## 15.穿衣风格改变，多方面参考，改变风格
+
+
+## 16.英语学习规划
+
+牛津英语词典
+
+牛津高阶英汉双解词典
+
+2023年4月，《牛津高阶英汉双解词典》(第10版)下线仪式在南京举行，2023年6月正式上市销售，APP同步上线。
+
+
+## 17. 如何选择AI课程，AI工具的使用，AI技能提升
+
+## 18. 两个笔记本建立一个局域网，搭建一个个人仓库，Mac是服务器，Windows是客户端
+
