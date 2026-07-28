@@ -18,7 +18,7 @@ Saturday July 25 Day 206 week 30 of 2026
 15. 溪村游玩预约
 16. RocketMQ源码阅读
 17. 借《一句顶一万句=Someone to talk to》
-18. 请钟佳恒吃饭
+18. 请HR钟佳恒吃饭
 19. 看徐霞客游记
 20. 个人日记整理
 21. 个人知识库整理
