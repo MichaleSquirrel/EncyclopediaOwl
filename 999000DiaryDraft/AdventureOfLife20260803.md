@@ -74,3 +74,7 @@ HTTP_PROXY=
 HTTPS_PROXY=  
   
 用AI解决了这个问题
+
+
+
+pip install -r requirements.txt  
