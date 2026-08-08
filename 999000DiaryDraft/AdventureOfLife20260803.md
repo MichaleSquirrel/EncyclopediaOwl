@@ -12,10 +12,7 @@ Monday August 3 Day 215 week 32 of 2026
 2. 阅读
    大概用时：小时
 
-
-## 3.
-
-## 5.A2A协议  
+## 3.A2A协议  
 https://www.deeplearning.ai/courses/a2a-the-agent2agent-protocol  
   
   
@@ -74,6 +71,14 @@ HTTP_PROXY=
 HTTPS_PROXY=  
   
 用AI解决了这个问题
+
+
+https://github.com/a2aproject/a2a-samples
+
+
+openAI  key
+
+## 4.
 
 
 
