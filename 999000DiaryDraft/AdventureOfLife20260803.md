@@ -1,7 +1,9 @@
 Monday August 3 Day 215 week 32 of 2026
 
 ## 1.TodoList
-
+1. 继续学习AgentCard
+2. 7月交付件整理
+3. 变更文档编写
 
 
 
