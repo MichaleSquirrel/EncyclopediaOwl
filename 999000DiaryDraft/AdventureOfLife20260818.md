@@ -1,7 +1,13 @@
 Tuesday August 18 Day 230 week 34 of 2026
 
 ## 1.TodoList
-
+1. 变更文档编写
+2. IAM测试环境搭建
+3. AI学习
+4. 下载体检报告到本地
+5. 下载RocketMQ书对应源码并上传到Personal Knowledge Management
+6. 找到顶哥发给我的教材
+7. 整理Elaine Photos
 
 
 
