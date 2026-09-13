@@ -40,3 +40,10 @@ Request timed out.
 Reply from 192.168.165.71: Destination host unreachable.
 Reply from 192.168.165.71: Destination host unreachable.
 Reply from 192.168.165.71: Destination host unreachable.
+
+
+## 5.
+
+查询员工信息的一个MCP：
+
+
