@@ -40,3 +40,6 @@ Request timed out.
 Reply from 192.168.165.71: Destination host unreachable.
 Reply from 192.168.165.71: Destination host unreachable.
 Reply from 192.168.165.71: Destination host unreachable.
+
+
+http://localhost:8999/ai/chat?message=北京天气如何?
