@@ -56,3 +56,6 @@ http://api.openweathermap.org/data/2.5/weather?q=Beijing&appid=363a215938d32a5d7
 
 http://localhost:8999/ai/chat?message=北京天气如何?
 
+
+
+
