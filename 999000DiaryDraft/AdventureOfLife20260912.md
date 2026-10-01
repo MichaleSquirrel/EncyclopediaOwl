@@ -8,9 +8,8 @@ Saturday September 12 Day 255 week 37 of 2026
 ## 2.MCA课程学习进度
 
 2026年09月12号学习进展：
-1. 复习
-2. 阅读
-   大概用时：小时
+1. 学习《Nginx+lua+OpenResty高性能实践》
+   大概用时：4小时
 
 
 ## 3.

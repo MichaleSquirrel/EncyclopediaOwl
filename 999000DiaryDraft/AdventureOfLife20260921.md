@@ -1,7 +1,8 @@
 Monday September 21 Day 264 week 39 of 2026
 
 ## 1.TodoList
-
+1. MCP测试
+2. MCP流水线搞通
 
 
 
@@ -12,6 +13,9 @@ Monday September 21 Day 264 week 39 of 2026
 2. 阅读
    大概用时：小时
 
+## 3.MCP测试
+
+请写一个MCP，可以测试Tools原语、resources原语，prompts原语，并可以部署到服务器让我测试，支持MCP 2026-07-28版本，可以使用模拟。
 
 ## 3.
 
@@ -87,3 +91,10 @@ Robert Green 的书<Art of Seduction>
 
 
 Autism Spectrum Disorder (ASD) is a neurodevelopmental condition that affects how a person communicates, learns, and interacts with others
+
+
+## 5.Postman不好用怎么办？
+
+
+针对 MCP 测试场景，比 Postman 好用的两个方案——官方 MCP Inspector（GUI）和我给您写一个协议感知的命令行工具（自动处理 initialize/会话/JSON-RPC 格式，还能带自定义头测网关）。先写 CLI：
+
