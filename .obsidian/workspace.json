@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999000DiaryDraft/AdventureOfLife20261001.md",
+                "file": "Clippings/Codex 下载安装指南：Windows 和 macOS 官方版下载_codex官网下载-CSDN博客.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AdventureOfLife20261001"
+              "title": "Codex 下载安装指南：Windows 和 macOS 官方版下载_codex官网下载-CSDN博客"
+            }
+          },
+          {
+            "id": "8dc07ce6cbc18bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999000DiaryDraft/AdventureOfLife20260926.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AdventureOfLife20260926"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,6 +196,37 @@
               "icon": "terminal",
               "title": "Opencode"
             }
+          },
+          {
+            "id": "037d675b503b97c7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1790997642530-xrupwqo",
+                      "conversationId": null
+                    }
+                  ],
+                  "activeTabId": "tab-1790997642530-xrupwqo"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "4273fab11184a93d",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-conversations",
+              "state": {},
+              "icon": "message-circle",
+              "title": "Opencode conversations"
+            }
           }
         ],
         "currentTab": 6
@@ -198,22 +244,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "periodic-notes:Open today": false,
       "opencode:Opencode terminal": false,
-      "opencode:Opencode conversations": false
+      "opencode:Opencode conversations": false,
+      "periodic-notes:Open today": false,
+      "realclaudian:Open Claudian": false,
+      "xiaohongshu-importer:Import Xiaohongshu note": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "2c3897144b7dd3c6",
+  "active": "8dc07ce6cbc18bc5",
   "lastOpenFiles": [
+    "999000DiaryDraft/AdventureOfLife20261007.md~",
+    "Clippings/Claude Desktop Windows版本国内网络环境完全&quot;离线&quot;安装方法.md",
     "999000DiaryDraft/AdventureOfLife20261007.md",
+    "999000DiaryDraft/AdventureOfLife20261003.md",
+    "Clippings/Codex联动Obsidian，搭建卡帕西同款知识库，手把手教程.md",
+    "XHS Notes/旅行/下次去松山湖记得叫我.md",
+    "XHS Notes/美食/#梅姨.md",
+    "XHS Notes/旅行",
+    "XHS Notes/美食",
+    "XHS Notes",
+    "Clippings/Codex 下载安装指南：Windows 和 macOS 官方版下载_codex官网下载-CSDN博客.md",
+    "Clippings/8 万人收藏：Karpathy 的 LLM Wiki 到底是什么？完整拆解+实操路径.md",
+    "999000DiaryDraft/AdventureOfLife20261002.md",
+    "Clippings/karpathy - Overview.md",
+    "Clippings/安德烈·卡帕西.md",
+    "Clippings/multica-aiandrej-karpathy-skills A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.md",
+    "999000DiaryDraft/AdventureOfLife20261001.md",
     "Clippings/处女情结，不是爱得太深，而是理想化太重.md",
     "Clippings/处女情结的简单处理方法.md",
     "Clippings/这绝对是B站唯一将OpenCode 从入门到精通讲明白的教程，手把手带你从入门到实战使用，保姆级教程，存下吧，比啃书好太多了！.md",
-    "999000DiaryDraft/AdventureOfLife20261007.md~",
     "Clippings/B站强推！清华大佬268小时讲完的WorkBuddy入门到精通全套教程，2026最新版，全程干货无废话，学完即可搞懂WorkBuddy完整工作流+实战技巧！.md",
     "Clippings/【吴恩达】2026公认最好的【RAG知识图谱】教程！从知识图谱基础到SEC图谱构建与问答，手把手带你打通GraphRAG全链路！——附课件代码.md",
     "Clippings",
-    "999000DiaryDraft/AdventureOfLife20261001.md",
     "999000DiaryDraft/AdventureOfLife20260830.md",
     "template/DiaryTemplate.md~",
     "999000DiaryDraft/AdventureOfLife20260830.md~",
@@ -224,28 +287,13 @@
     "999000DiaryDraft/AdventureOfLife20260726.md~",
     "999000DiaryDraft/AdventureOfLife20260517.md",
     "999000DiaryDraft/AdventureOfLife20260520.md",
-    "999000DiaryDraft/AdventureOfLife20260521.md",
     "Canvas/Task Dashboard.canvas",
-    "999000DiaryDraft/AdventureOfLife20260426.md",
-    "999000DiaryDraft/AdventureOfLife20260417.md",
-    "template/DeveloperNotesTemplate.md",
-    "999000DiaryDraft/AdventureOfLife20260416.md",
     "999000DiaryDraft/AdventureOfLife20260416.md~",
-    "999000DiaryDraft/AdventureOfLife20260414.md",
     "999000DiaryDraft/resource20260409/Image_20260409074528_120_11.jpg",
     "999000DiaryDraft/resource20260409/Image_20260409074525_119_11.jpg",
     "999000DiaryDraft/resource20260409/Image_20260409074520_118_11.jpg",
     "999000DiaryDraft/resource20260409/Image_20260409074515_117_11.jpg",
     "999000DiaryDraft/resource20260409",
-    "999000DiaryDraft/health_check/05_security_baseline_check.sh",
-    "999000DiaryDraft/health_check/07_batch_check_scheduler.sh",
-    "999000DiaryDraft/health_check/04_process_health_check.sh",
-    "999000DiaryDraft/health_check/ReadMe.md",
-    "999000DiaryDraft/AdventureOfLife20260411.md",
-    "999000DiaryDraft/AdventureOfLife20260410.md",
-    "999000DiaryDraft/AdventureOfLife20260409.md",
-    "999000DiaryDraft/AdventureOfLife20260324.md",
-    "999000DiaryDraft/AdventureOfLife20260228.md",
     "999000DiaryDraft/img.png",
     "999000DiaryDraft/pic20260107/2026-01-07_181510.png",
     "950000Friends/953000Workmate/953010Godness/pic/Image_20250803191855.jpg",
