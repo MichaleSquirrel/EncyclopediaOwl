@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1538cbe84386feb",
+        "id": "b1b10646e84bb03d",
         "type": "tabs",
         "children": [
           {
-            "id": "78a69dcc6f439eb1",
+            "id": "24ce64bc4f10380c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,26 @@
               },
               "icon": "lucide-file",
               "title": "AdventureOfLife20261001"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1538cbe84386feb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a69dcc6f439eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999000DiaryDraft/AdventureOfLife20260830.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AdventureOfLife20260830"
             }
           }
         ]
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "931000Diary/AdventureOfLife20250826.md",
+                "file": "999000DiaryDraft/AdventureOfLife20261001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AdventureOfLife20250826"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,7 +193,7 @@
             }
           },
           {
-            "id": "798b8d21626c814d",
+            "id": "dfbd867e8ab008fa",
             "type": "leaf",
             "state": {
               "type": "opencode-terminal",
@@ -187,10 +207,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 633.5
+    "width": 728.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
+      "opencode:Opencode terminal": false,
+      "opencode:Opencode conversations": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -198,59 +220,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "periodic-notes:Open today": false,
-      "opencode:Opencode terminal": false,
-      "opencode:Opencode conversations": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2c3897144b7dd3c6",
+  "active": "24ce64bc4f10380c",
   "lastOpenFiles": [
+    "physical-examination-report/聊天秘籍(1).pdf",
+    "physical-examination-report/ef3a15b12ca0aa41ebe688ec26052d92.pdf",
+    "physical-examination-report/d5b14a9e715ae411c5b3b5394703205f.pdf",
+    "physical-examination-report/a7a730d985166f9491b20751e0689db9.pdf",
+    "physical-examination-report/a0afb035f5501647efb2a777b4232665.pdf",
+    "physical-examination-report/964d741bca8fd6f8a6e05e5829a15f7f.pdf",
+    "physical-examination-report/90e3933718ad8d8f53cd4025c71ddec3.pdf",
+    "physical-examination-report/87c5a4373c6e09fd6a2bb590e05a4b9c.pdf",
+    "physical-examination-report/87aad8267ae31bdde812a903b4358ed9.pdf",
+    "physical-examination-report/496f720c8484c077aee9707b10c5bf48.pdf",
+    "physical-examination-report/2026-08-21_191210.png",
+    "physical-examination-report/2026-08-21_191141.png",
+    "physical-examination-report/0e2c5e2f87ffa1e03652898e5ec9beda.doc",
     "999000DiaryDraft/AdventureOfLife20261007.md",
-    "Clippings/处女情结，不是爱得太深，而是理想化太重.md",
-    "Clippings/处女情结的简单处理方法.md",
-    "Clippings/这绝对是B站唯一将OpenCode 从入门到精通讲明白的教程，手把手带你从入门到实战使用，保姆级教程，存下吧，比啃书好太多了！.md",
-    "999000DiaryDraft/AdventureOfLife20261007.md~",
-    "Clippings/B站强推！清华大佬268小时讲完的WorkBuddy入门到精通全套教程，2026最新版，全程干货无废话，学完即可搞懂WorkBuddy完整工作流+实战技巧！.md",
-    "Clippings/【吴恩达】2026公认最好的【RAG知识图谱】教程！从知识图谱基础到SEC图谱构建与问答，手把手带你打通GraphRAG全链路！——附课件代码.md",
-    "Clippings",
-    "999000DiaryDraft/AdventureOfLife20261001.md",
     "999000DiaryDraft/AdventureOfLife20260830.md",
-    "template/DiaryTemplate.md~",
-    "999000DiaryDraft/AdventureOfLife20260830.md~",
-    "999000DiaryDraft/AdventureOfLife20260824.md",
-    "template/DiaryTemplate.md",
-    "999000DiaryDraft/AdventureOfLife20260727.md",
-    "999000DiaryDraft/AdventureOfLife20260726.md",
-    "999000DiaryDraft/AdventureOfLife20260726.md~",
-    "999000DiaryDraft/AdventureOfLife20260517.md",
-    "999000DiaryDraft/AdventureOfLife20260520.md",
-    "999000DiaryDraft/AdventureOfLife20260521.md",
+    "999000DiaryDraft/AdventureOfLife20261001.md",
+    "Clippings/这绝对是B站唯一将OpenCode 从入门到精通讲明白的教程，手把手带你从入门到实战使用，保姆级教程，存下吧，比啃书好太多了！.md",
+    "Clippings/【吴恩达】2026公认最好的【RAG知识图谱】教程！从知识图谱基础到SEC图谱构建与问答，手把手带你打通GraphRAG全链路！——附课件代码.md",
+    "Clippings/B站强推！清华大佬268小时讲完的WorkBuddy入门到精通全套教程，2026最新版，全程干货无废话，学完即可搞懂WorkBuddy完整工作流+实战技巧！.md",
+    "999000DiaryDraft/读心冰度.md",
+    "999000DiaryDraft/AdventureOfLife20260930.md",
+    "999000DiaryDraft/AdventureOfLife20260929.md",
+    "999000DiaryDraft/AdventureOfLife20260928.md",
+    "999000DiaryDraft/AdventureOfLife20260927.md",
+    "999000DiaryDraft/AdventureOfLife20260926.md",
+    "999000DiaryDraft/AdventureOfLife20260925.md",
+    "999000DiaryDraft/AdventureOfLife20260924.md",
+    "999000DiaryDraft/AdventureOfLife20260923.md",
+    "999000DiaryDraft/AdventureOfLife20260922.md",
+    "999000DiaryDraft/AdventureOfLife20260920.md",
+    "999000DiaryDraft/AdventureOfLife20260919.md",
+    "999000DiaryDraft/AdventureOfLife20260918.md",
+    "999000DiaryDraft/AdventureOfLife20260917.md",
+    "999000DiaryDraft/AdventureOfLife20260916.md",
+    "999000DiaryDraft/AdventureOfLife20260915.md",
+    "999000DiaryDraft/AdventureOfLife20260911.md",
+    "999000DiaryDraft/AdventureOfLife20260909.md",
+    "999000DiaryDraft/AdventureOfLife20260908.md",
     "Canvas/Task Dashboard.canvas",
-    "999000DiaryDraft/AdventureOfLife20260426.md",
-    "999000DiaryDraft/AdventureOfLife20260417.md",
-    "template/DeveloperNotesTemplate.md",
-    "999000DiaryDraft/AdventureOfLife20260416.md",
-    "999000DiaryDraft/AdventureOfLife20260416.md~",
-    "999000DiaryDraft/AdventureOfLife20260414.md",
     "999000DiaryDraft/resource20260409/Image_20260409074528_120_11.jpg",
     "999000DiaryDraft/resource20260409/Image_20260409074525_119_11.jpg",
     "999000DiaryDraft/resource20260409/Image_20260409074520_118_11.jpg",
     "999000DiaryDraft/resource20260409/Image_20260409074515_117_11.jpg",
-    "999000DiaryDraft/resource20260409",
-    "999000DiaryDraft/health_check/05_security_baseline_check.sh",
-    "999000DiaryDraft/health_check/07_batch_check_scheduler.sh",
-    "999000DiaryDraft/health_check/04_process_health_check.sh",
-    "999000DiaryDraft/health_check/ReadMe.md",
-    "999000DiaryDraft/AdventureOfLife20260411.md",
-    "999000DiaryDraft/AdventureOfLife20260410.md",
-    "999000DiaryDraft/AdventureOfLife20260409.md",
-    "999000DiaryDraft/AdventureOfLife20260324.md",
-    "999000DiaryDraft/AdventureOfLife20260228.md",
     "999000DiaryDraft/img.png",
     "999000DiaryDraft/pic20260107/2026-01-07_181510.png",
     "950000Friends/953000Workmate/953010Godness/pic/Image_20250803191855.jpg",
-    "950000Friends/953000Workmate/953010Godness/pic/A0CECE8D-C3F6-43D4-8B81-C13C72B7D264.jpeg",
-    "950000Friends/953000Workmate/953010Godness/pic/834FB1D9-CFDA-4018-B546-480C1C36C963.jpeg",
-    "950000Friends/953000Workmate/953010Godness/pic/74F4A26E-B43E-4C45-922F-B019A331B74E.jpeg"
+    "950000Friends/953000Workmate/953010Godness/pic/A0CECE8D-C3F6-43D4-8B81-C13C72B7D264.jpeg"
   ]
 }
