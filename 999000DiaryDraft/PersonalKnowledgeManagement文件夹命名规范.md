@@ -1,7 +1,26 @@
 # PersonalKnowledgeManagement文件夹命名规范
 
 ## 1.PersonalKnowledgeManagement文件夹命名规范
+包含个人电脑，办公电脑，PersonalKnowledgeManagement等各类文件夹命名规则
+这是一个**个人知识管理仓库**（Personal Knowledge Management v2），使用 Obsidian 管理。目录按编号分类：
 
+| 编号   | 目录              | 内容                             |
+|--------|-------------------|----------------------------------|
+| 100000 | ContentList       | 内容目录/索引                    |
+| 110000 | Tools             | 工具类知识                       |
+| 120000 | English           | 英语学习                         |
+| 130000 | LifeSecondEdition | 生活（二版）                     |
+| 140000 | Life              | 生活                             |
+| 600000 | Java              | Java 技术                        |
+| 610000 | Algorithm         | 算法（含灵茶山艾府题解等）       |
+| 630000 | ProjectSource     | 项目源码（RocketMQ、严选商城等） |
+| 640000 | MCA               | MCA 课程（IO 精讲等）            |
+| 700000 | Education         | 教育                             |
+| 750000 | Library           | 资料库                           |
+| 800000 | CyberSecurity     | 网络安全                         |
+| 900000 | GuanHaoEncyclopedia     | 个人笔记等                       |
+
+本质是一个按编号体系组织的个人百科/笔记库，涵盖技术、算法、英语、生活、安全等多领域。
 ## 2.目录规则
 
 .idea
@@ -9,16 +28,75 @@
 ### 2.1
 100000ContentList
 110000Tools
+110014Library
+110018Bank
+110022PersonalComputer
+110026GitHubPages
+110029视力保护色
+111000GitGuide
+112000WeChat
+113000Windows
+114100Linux
+114200MacOS
+114300Android
+115000DeveloperTools
+115001MarkdownGuide
+115005多端协同
+115006PlantUML
+115007MermaidGuide
+115010Drawio
+115012飞书
+115013原型设计
+115015IDEA
+115016IntelliJ_IDEA
+115019Pandoc
+115020MarkText
+115021Maven
+115022FastStone
+115023MySql
+115024MindMaster
+115025PenAttention
+115026Sublime
+115027TCPDump
+115028Wireshark
+115029Postman
+115030  7zip
+115031PixPin
+115032RationalRose
+115033EnterpriseArchitect
+115034ProcessOn
+115035HugeJsonViewer
+115036VPN
+115037EV录屏
+115038OpenCode
+115039VPN
+115040PicGo
+116000PersonalKnowledgeManagement
+117000AITools
+117001OpenCode
+117002LLMwiki
+117003KnowledgeGraph知识图谱
+117004WorkBuddy
+117006ClaudeCode
+117007Coze
+117008ClaudeDesktop
+119000Entertainment
 120000English
 130000LifeSecondEdition
 140000Life
+150000Fruit
 ### 2.2
 200000Math
 ### 2.6
 600000Java
 610000Algorithm
+610013ODTest
 610014Algorithm
+610015左程云
+610016灵茶山艾府
 610017Algorithm
+610020加密算法
+620000JavaSE
 620000JAVA面试八股文
 620001Java8
 620002证书导入
@@ -30,6 +108,7 @@
 620017金九银十大厂面试题全解
 620018Tomcat
 620019双亲委派机制
+620020JVM
 620021Java中的try-with-resources语句
 620022并发编程
 620023并发编程2
@@ -42,7 +121,6 @@
 629030Subject3科目三
 629040Subject4科目四
 630000ProjectSource
-630001UML
 
 635000JavaWebOpenSource
 635013NavicatSetup
@@ -62,7 +140,7 @@
 635122JDK21Introduce
 635665Netty
 635666RocketMQ
-635667马士兵严选ProjectManagment
+635667MCAYanXuan
 635668Kafka
 635669Kong
 636000JavaWebHuawei
@@ -74,7 +152,6 @@
 636120ElasticSearch
 637000JavaWebYinWang
 637001APIGateway
-637002JVM
 637002MessageQueueService
 637003LiveFlow
 637004LiveRule
@@ -104,7 +181,7 @@
 637203IAS_IT_ITO
 637204实现资源与费用账单管理线上化
 637205MCPGateway
-637206AgentGateway
+637206AgentGatewayProject
 637210AgentGatewayProject
 637236AgentGatewaySourceBase
 637237AgentGatewaySource
@@ -134,6 +211,8 @@
 637283RAP编排Agent并发布
 637284MQS
 638000Android
+638002复习知识点
+638005Resume
 638110AndroidSoftwareDevelopmentKit
 638510WeLinkProject
 638515LivableMap
@@ -164,44 +243,85 @@
 639737FindJob
 639738FindJob2027
 640000MashibingCertifiedArchitect
+640000简介
+640001报名
+640002入学
 640003AOP
 650000AI
+650001AI_Introduce
+650002大模型的下半场：实践与思考
+650003Picture
 650004Agent
-650005SpringAI
-650006MCP
+650005MCP
+650006SpringAI
 650007OpenClaw
 650008LLMWiki
-690000小程序
-690001DouyinMicroApp抖音小程序
-690002Touge
+650009Dify
+650010Ollama
+690000Others
 690006Software
 691000Driver
 691001DELLDriver
 691002ASUSDriver
+692000Shell
+692001ShellForAndroidMobile
+692002BatForWindowsPC
+693000小程序
+693001DouyinMicroApp抖音小程序
+693002Touge
+694000UML
 ### 2.7
 700000Education
 710000Education	
-720000Psychology
 710013ImprovmentNote
+720000Psychology
+
 740004CSKaoyan
 740005Postgraduate
 740008嵌入式
 750000Library
 ### 2.8
 800000CyberSecurity
-800001BurpSuiteGuide
-800002BurpSuiteLog
-800003安全课程资料下载
-800011SecurityTest
-800012光世代
-800013xiaoniu
-800014PenetrationTesting马士兵网络安全
-800015蚁景网安				
-800016PenetrationTesting2
-800017SoftwareTest
-800017FunctionTest			
-800018SmartPacking
-800020加密算法
+800000PenetrationTesting马士兵网络安全
+800001班主任WeChatSend
+800002安全课程资料下载
+800003Linux操作系统-2022
+800004Ubuntu_APIG
+800005Xshell
+800013密码暴力猜解与防御
+800014XSS渗透与防御
+800015CSRF漏洞渗透与防御
+800016文件上传漏洞利用与防御
+800020远程代码执行渗透与防御
+800021JWT渗透与防御
+800023中间件漏洞
+800024反序列化渗透与防御
+800025DNSLog漏洞探测
+800030Kali渗透测试2023
+800031CVE漏洞复现
+800031Nessus漏洞扫描
+800032vulnhub靶场实战系列
+800041等级保护
+800042风险评估
+800045ATT&CK
+800047内网渗透
+800054Java代码审计-2023
+800056Java代码审计-2023
+800066DOS与DDOS渗透与防
+800074密码学与网络安全
+800112光世代
+800113xiaoniu
+800115蚁景网安
+800116PenetrationTestingResource
+800117JMeter性能测试
+800200BurpSuite
+800201BurpSuiteGuide
+800202BurpSuiteLog
+800218BurpSuiteCraft
+800224BurpSuiteIntruder
+
+
+
 
 			
 		
@@ -211,7 +331,6 @@
 
 ### 2.9
 900000GuanHaoEncyclopedia
-
 
 
 930005EncyclopediaOwl2019 
@@ -252,7 +371,6 @@
 936001Dentiy
 937000MacBookData
 939000DiaryDraft
-940001AdventureOfLife
 950000CustomerRelationshipManagement
 950001Ego
 950002Squirrel
@@ -264,22 +382,15 @@
 955000ClimbMountain
 955200Badminton
 
-Canvas
-Clippings
-template
-LICENSE
 
 
 AdventureOfLife
 AlgorithmStudy
 CustomerRelationshipManagement
 DesignPatternStudy
+Download
 EncyclopediaOwl
-EncyclopediaOwlUnpublished
-MashibingCertifiedArchitect
-personal-knowledge-management-v2
-PersonalKnowledgeManagement
-VideoRecord
+ProgrammFiles
 GuanhaoEncyclopediaTemplate.docx
 GuanhaoEncyclopediaTemplateV2.docx
 Practical PKM Starter Vault.zip
