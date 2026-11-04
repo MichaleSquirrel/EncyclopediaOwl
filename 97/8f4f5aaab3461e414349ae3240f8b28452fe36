@@ -1,0 +1,95 @@
+999000DiaryDraft/PersonalKnowledgeManagement文件夹命名成熟系统.md
+  s_6f124e4fe6a1c9::t_b4107b479b0857 1-23
+  s_5048812236965f::t_23b313391d5480 24-28
+999000DiaryDraft/AdventureOfLife20261008.md
+  s_da0b5cebbe9cbf::t_51cf1c87d8f868 1-37
+999000DiaryDraft/AdventureOfLife20261009.md
+  s_da0b5cebbe9cbf::t_61bbe7d3062cec 1-203
+999000DiaryDraft/AdventureOfLife20261010.md
+  s_da0b5cebbe9cbf::t_f3919635fde55d 1-69
+999000DiaryDraft/AdventureOfLife20261012.md
+  s_da0b5cebbe9cbf::t_ad7d881cb3b762 1-119
+999000DiaryDraft/AdventureOfLife20261015.md
+  s_da0b5cebbe9cbf::t_9a9ac71319a53c 1-14
+999000DiaryDraft/AdventureOfLife20261016.md
+  s_da0b5cebbe9cbf::t_ae9b3861d5478a 1-616
+999000DiaryDraft/AdventureOfLife20261017.md
+  s_da0b5cebbe9cbf::t_2e9009ffb3fecf 1-58
+999000DiaryDraft/AdventureOfLife20261027.md
+  s_da0b5cebbe9cbf::t_e366d6de08f0c7 1-24
+999000DiaryDraft/AdventureOfLife20261001.md
+  h_408a61a788a466 1-204
+999000DiaryDraft/AdventureOfLife20261002.md
+  h_408a61a788a466 1-23
+999000DiaryDraft/AdventureOfLife20261003.md
+  h_408a61a788a466 1-33
+999000DiaryDraft/AdventureOfLife20261004.md
+  h_408a61a788a466 1-20
+999000DiaryDraft/AdventureOfLife20261006.md
+  h_408a61a788a466 1-476
+999000DiaryDraft/AdventureOfLife20261007.md
+  h_408a61a788a466 1-40
+999000DiaryDraft/AdventureOfLife20261011.md
+  h_408a61a788a466 1-17
+999000DiaryDraft/AdventureOfLife20261018.md
+  h_408a61a788a466 1-17
+999000DiaryDraft/AdventureOfLife20261019.md
+  h_408a61a788a466 1-98
+999000DiaryDraft/AdventureOfLife20261020.md
+  h_408a61a788a466 1-17
+999000DiaryDraft/AdventureOfLife20261021.md
+  h_408a61a788a466 1-31
+999000DiaryDraft/AdventureOfLife20261022.md
+  h_408a61a788a466 1-45
+999000DiaryDraft/AdventureOfLife20261023.md
+  h_408a61a788a466 1-26
+999000DiaryDraft/AdventureOfLife20261024.md
+  h_408a61a788a466 1-17
+999000DiaryDraft/AdventureOfLife20261026.md
+  h_408a61a788a466 4,18,24-90
+999000DiaryDraft/AdventureOfLife20261028.md
+  h_408a61a788a466 1-60
+999000DiaryDraft/AdventureOfLife20261029.md
+  h_408a61a788a466 1-84
+999000DiaryDraft/AdventureOfLife20261030.md
+  h_408a61a788a466 1-21
+999000DiaryDraft/AdventureOfLife20261031.md
+  h_408a61a788a466 1-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "10.11.1",
+  "base_commit_sha": "978f4f5aaab3461e414349ae3240f8b28452fe36",
+  "prompts": {},
+  "humans": {
+    "h_408a61a788a466": {
+      "author": "m30026548 <maoguansong@yw-partners.com>"
+    }
+  },
+  "sessions": {
+    "s_5048812236965f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e5b6ba4e5ffeUUgPTlcLjCgO3i",
+        "model": "unknown"
+      },
+      "human_author": "m30026548 <maoguansong@yw-partners.com>"
+    },
+    "s_6f124e4fe6a1c9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e5b61dc17ffedaqJlos24IJAXh",
+        "model": "unknown"
+      },
+      "human_author": "m30026548 <maoguansong@yw-partners.com>"
+    },
+    "s_da0b5cebbe9cbf": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e5a345632ffeuP9lbGlYebyOIg",
+        "model": "unknown"
+      },
+      "human_author": "m30026548 <maoguansong@yw-partners.com>"
+    }
+  }
+}
