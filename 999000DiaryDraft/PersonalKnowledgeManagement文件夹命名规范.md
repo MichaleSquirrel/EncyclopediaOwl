@@ -41,6 +41,7 @@
 114300Android
 115000DeveloperTools
 115001MarkdownGuide
+115002jd-gui
 115005多端协同
 115006PlantUML
 115007MermaidGuide
@@ -80,6 +81,7 @@
 117006ClaudeCode
 117007Coze
 117008ClaudeDesktop
+117009FireCrawl
 119000Entertainment
 120000English
 130000LifeSecondEdition
@@ -89,6 +91,7 @@
 200000Math
 ### 2.6
 600000Java
+#### 2.6.1
 610000Algorithm
 610013ODTest
 610014Algorithm
@@ -96,6 +99,7 @@
 610016灵茶山艾府
 610017Algorithm
 610020加密算法
+#### 2.6.2
 620000JavaSE
 620000JAVA面试八股文
 620001Java8
@@ -120,6 +124,8 @@
 629020Subject2科目二
 629030Subject3科目三
 629040Subject4科目四
+
+#### 2.6.3
 630000ProjectSource
 
 635000JavaWebOpenSource
@@ -143,6 +149,7 @@
 635667MCAYanXuan
 635668Kafka
 635669Kong
+635670SpringSecurity
 636000JavaWebHuawei
 636001APIGateway
 636002MQS
@@ -183,6 +190,7 @@
 637205MCPGateway
 637206AgentGatewayProject
 637210AgentGatewayProject
+637211AgentGateway
 637236AgentGatewaySourceBase
 637237AgentGatewaySource
 637242MCPGatewaySourceMaas
@@ -208,8 +216,21 @@
 637280Kong
 637281ServerInspection
 637282APIG-PythonScript
+637283AgentGateway
 637283RAP编排Agent并发布
 637284MQS
+637285流水线构建
+637286MCPGateway
+637287AgentGateway
+637288MCPGateway
+637289AgentGatewayAndMCPGateway
+637300YW平台25.3版本升级
+637400YinWang专项工作
+637401领域演练报告
+637402批量操作排查
+637403全局服务监控恢复确认沟通
+637404金码奖
+637405应用权限修改
 638000Android
 638002复习知识点
 638005Resume
@@ -242,22 +263,33 @@
 639736FindJob202511021126
 639737FindJob
 639738FindJob2027
+639739科锐
+#### 2.6.4
 640000MashibingCertifiedArchitect
 640000简介
 640001报名
 640002入学
 640003AOP
+640004Docker
+#### 2.6.5
 650000AI
 650001AI_Introduce
 650002大模型的下半场：实践与思考
 650003Picture
-650004Agent
-650005MCP
+650004AI培训赋能
+650005AI马拉松
 650006SpringAI
 650007OpenClaw
 650008LLMWiki
 650009Dify
 650010Ollama
+650011Agent2AgentProtocol
+650012ModelContextProtocol
+650013MinerU
+650014llamaindex
+650015ASR
+650016RAPPlugin
+#### 2.6.9
 690000Others
 690006Software
 691000Driver
@@ -332,7 +364,7 @@
 ### 2.9
 900000GuanHaoEncyclopedia
 
-
+#### 2.9.3
 930005EncyclopediaOwl2019 
 930012EncyclopediaGuanHao2023
 
@@ -367,10 +399,15 @@
 935000WechatBackup
 935001WechatBackup
 935002WechatBackup
+935100WeLink聊天记录
+935100WeLinkBackup
+935102WeLinkResource
 936000PhysicalExaminationReport
 936001Dentiy
 937000MacBookData
 939000DiaryDraft
+
+#### 2.9.5
 950000CustomerRelationshipManagement
 950001Ego
 950002Squirrel
@@ -390,14 +427,12 @@ CustomerRelationshipManagement
 DesignPatternStudy
 Download
 EncyclopediaOwl
-ProgrammFiles
+ProgramFilesD
 GuanhaoEncyclopediaTemplate.docx
 GuanhaoEncyclopediaTemplateV2.docx
 Practical PKM Starter Vault.zip
 Video_2026-09-06_233725.mp4
 
-
-## 3.
 
 
 
