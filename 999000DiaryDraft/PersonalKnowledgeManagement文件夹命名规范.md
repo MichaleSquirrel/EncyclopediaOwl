@@ -349,9 +349,12 @@
 800200BurpSuite
 800201BurpSuiteGuide
 800202BurpSuiteLog
+800203BurpSuitePlugin
 800218BurpSuiteCraft
 800224BurpSuiteIntruder
-
+800300SecurityTestHuawei
+800301华为安全功能规范
+800302融合联接安全测试内部培训教材
 
 
 
