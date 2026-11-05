@@ -1,0 +1,14 @@
+999000DiaryDraft/WindowsStartScriptV3.bat
+  h_408a61a788a466 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "10.11.1",
+  "base_commit_sha": "13bc24824c1ca69584b93b8d997560eb17ccfdd3",
+  "prompts": {},
+  "humans": {
+    "h_408a61a788a466": {
+      "author": "m30026548 <maoguansong@yw-partners.com>"
+    }
+  }
+}
