@@ -83,9 +83,25 @@
 117008ClaudeDesktop
 117009FireCrawl
 119000Entertainment
+119017东莞松山湖
+119018银湖山
+119019Civilization7
+119020Music
+119021Map
 120000English
+126000KaoyanEnglish
 130000LifeSecondEdition
+130001msater
+130002出国建议
+130003
+130004FiveYearPlan
+130005德科
+130006SoftwareIdea
+130007Huawei
+130028WorkAbroad
 140000Life
+140001DailyLife
+140002爱自然生命力文化传播
 150000Fruit
 ### 2.2
 200000Math
@@ -95,10 +111,12 @@
 610000Algorithm
 610013ODTest
 610014Algorithm
-610015左程云
 610016灵茶山艾府
-610017Algorithm
-610020加密算法
+610017AlgorithmMCA
+612000左程云
+613000加密算法
+613100ModernCryptology
+
 #### 2.6.2
 620000JavaSE
 620000JAVA面试八股文
@@ -149,7 +167,6 @@
 635667MCAYanXuan
 635668Kafka
 635669Kong
-635670SpringSecurity
 636000JavaWebHuawei
 636001APIGateway
 636002MQS
@@ -424,17 +441,8 @@
 
 
 
-AdventureOfLife
-AlgorithmStudy
-CustomerRelationshipManagement
-DesignPatternStudy
 Download
-EncyclopediaOwl
 ProgramFilesD
-GuanhaoEncyclopediaTemplate.docx
-GuanhaoEncyclopediaTemplateV2.docx
-Practical PKM Starter Vault.zip
-Video_2026-09-06_233725.mp4
 
 
 
