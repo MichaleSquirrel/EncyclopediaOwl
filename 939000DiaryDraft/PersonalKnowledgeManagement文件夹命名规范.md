@@ -72,6 +72,7 @@
 115038OpenCode
 115039VPN
 115040PicGo
+115041MemoryAnalyzerTool
 116000PersonalKnowledgeManagement
 117000AITools
 117001OpenCode
@@ -97,7 +98,7 @@
 130004FiveYearPlan
 130005德科
 130006SoftwareIdea
-130007Huawei
+130007HuaweiLibrary
 130028WorkAbroad
 140000Life
 140001DailyLife
@@ -204,8 +205,10 @@
 637202MQSDevOps
 637203IAS_IT_ITO
 637204实现资源与费用账单管理线上化
+637204OnlineManagementOfResourceAndExpense
 637205MCPGateway
 637206AgentGatewayProject
+637207MCPGateway
 637210AgentGatewayProject
 637211AgentGateway
 637236AgentGatewaySourceBase
@@ -281,6 +284,7 @@
 639737FindJob
 639738FindJob2027
 639739科锐
+639740瀚蓝环境
 #### 2.6.4
 640000MashibingCertifiedArchitect
 640000简介
@@ -306,6 +310,7 @@
 650014llamaindex
 650015ASR
 650016RAPPlugin
+650017DeepAgent
 #### 2.6.9
 690000Others
 690006Software
