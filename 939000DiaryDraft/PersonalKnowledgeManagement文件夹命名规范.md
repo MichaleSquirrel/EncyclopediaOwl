@@ -37,6 +37,10 @@
 112000WeChat
 113000Windows
 114100Linux
+114101Linux操作系统
+114102Linux基础命令讲解
+114103MobaXterm
+114104Linux内核
 114200MacOS
 114300Android
 115000DeveloperTools
@@ -98,7 +102,7 @@
 130004FiveYearPlan
 130005德科
 130006SoftwareIdea
-130007HuaweiLibrary
+130007Huawei
 130028WorkAbroad
 140000Life
 140001DailyLife
@@ -317,9 +321,10 @@
 691000Driver
 691001DELLDriver
 691002ASUSDriver
-692000Shell
+692000Script
 692001ShellForAndroidMobile
 692002BatForWindowsPC
+692002LinuxShell编程
 693000小程序
 693001DouyinMicroApp抖音小程序
 693002Touge
@@ -424,8 +429,8 @@
 935000WechatBackup
 935001WechatBackup
 935002WechatBackup
+935010WechatBackupTools
 935100WeLink聊天记录
-935100WeLinkBackup
 935102WeLinkResource
 936000PhysicalExaminationReport
 936001Dentiy
@@ -436,7 +441,6 @@
 950000CustomerRelationshipManagement
 950001Ego
 950002Squirrel
-950002MaoGuanSong
 951000Relatives
 952000Classmate
 953000Workmate
