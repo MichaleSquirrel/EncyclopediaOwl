@@ -1,0 +1,23 @@
+110033DownloadTools/DownloadTools.md
+  s_b815d0dae6aeef::t_3948d9884126ea 1-8
+635120ElasticSearch/ElasticSearch.md
+  s_b815d0dae6aeef::t_492e3526d0ae92 1-9
+939000DiaryDraft/PersonalKnowledgeManagement文件夹命名规范.md
+  s_b815d0dae6aeef::t_16b0e3f7610788 36-39,250,341-343,416,459-470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "10.11.1",
+  "base_commit_sha": "708f174d1f7adbe113efafc97df35e4de5f1cf70",
+  "prompts": {},
+  "sessions": {
+    "s_b815d0dae6aeef": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4c7f1d60ffeQPmEOYGFbRospx",
+        "model": "unknown"
+      },
+      "human_author": "m30026548 <maoguansong@yw-partners.com>"
+    }
+  }
+}
