@@ -33,6 +33,10 @@
 110022PersonalComputer
 110026GitHubPages
 110029视力保护色
+110030SearchEngine
+110031Calendar
+110032Time
+110033DownloadTools
 111000GitGuide
 112000WeChat
 113000Windows
@@ -174,7 +178,6 @@
 636003LiveFlow
 636004LiveRule
 636005LiveRPA
-636120ElasticSearch
 637000JavaWebYinWang
 637001APIGateway
 637002MessageQueueService
@@ -244,6 +247,7 @@
 637287AgentGateway
 637288MCPGateway
 637289AgentGatewayAndMCPGateway
+637290OpenSource
 637300YW平台25.3版本升级
 637400YinWang专项工作
 637401领域演练报告
@@ -334,6 +338,9 @@
 740005Postgraduate
 740008嵌入式
 750000Library
+751000ShenzhenLibrary
+752000HuaweiLibrary
+753000BeijingLibrary
 ### 2.8
 800000CyberSecurity
 800000PenetrationTesting马士兵网络安全
@@ -406,7 +413,7 @@
 930010EncyclopediaGuanHao2024
 930011EncyclopediaGuanHao2025
 930012EncyclopediaGuanHao2026
-930015Calendar
+930015HuaweiCalendar
 930016AccessControlRecords门禁记录
 930017AttendanceManagement考勤管理
 930018KeyPerformanceIndicator关键绩效指标
@@ -448,6 +455,18 @@
 
 Download
 ProgramFilesD
+
+## 3.文件夹分工
+
+D盘文件夹用于分工，用于知识学习和输入
+
+MashibingCertifiedArchitect用于课程学习
+
+EncyclopediaOwl用于输出和管理
+939000DiaryDraft用于临时输出和管理
+
+
+
 
 
 
