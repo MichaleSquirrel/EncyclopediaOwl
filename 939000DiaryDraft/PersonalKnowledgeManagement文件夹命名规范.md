@@ -81,6 +81,8 @@
 115039VPN
 115040PicGo
 115041MemoryAnalyzerTool
+115042ZeroBraneStudio
+115043Charles
 116000PersonalKnowledgeManagement
 117000AITools
 117001OpenCode
@@ -176,12 +178,14 @@
 635667MCAYanXuan
 635668Kafka
 635669Kong
+635670OpenResty
 636000JavaWebHuawei
 636001APIGateway
 636002MQS
 636003LiveFlow
 636004LiveRule
 636005LiveRPA
+636205MCPGatewayHuawei
 637000JavaWebYinWang
 637001APIGateway
 637002MessageQueueService
@@ -200,6 +204,8 @@
 637015B2B
 637016ROMA底座
 637017数据虚拟化
+637018Kafka
+637019特征工程
 637049融合联接其他产品
 637051ADS
 637101薪酬福利
@@ -213,7 +219,7 @@
 637203IAS_IT_ITO
 637204实现资源与费用账单管理线上化
 637204OnlineManagementOfResourceAndExpense
-637205MCPGateway
+637205MCPGatewayYinwang
 637206AgentGatewayProject
 637207MCPGateway
 637210AgentGatewayProject
@@ -252,6 +258,15 @@
 637288MCPGateway
 637289AgentGatewayAndMCPGateway
 637290OpenSource
+637291MCPGateway
+637292AgentGateway
+637293MCPGateway
+637294AgentGatewayAndMCPGateway
+637295MCPCollections
+637296MCPGateway
+637297MCPGateway
+637298融合联接运维Agent
+637299RomaOperationAgent
 637300YW平台25.3版本升级
 637400YinWang专项工作
 637401领域演练报告
@@ -259,6 +274,9 @@
 637403全局服务监控恢复确认沟通
 637404金码奖
 637405应用权限修改
+637406AgentGateway
+637407MCPGateway
+637408AgentGatewayAndMCPGateway
 638000Android
 638002复习知识点
 638005Resume
@@ -333,6 +351,7 @@
 693001DouyinMicroApp抖音小程序
 693002Touge
 694000UML
+
 ### 2.7
 700000Education
 710000Education	
