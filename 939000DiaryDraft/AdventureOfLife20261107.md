@@ -1,6 +1,10 @@
 Saturday November 7 Day 311 week 45 of 2026
 
 ## 1.TodoList
+1. 十月交付件整理
+2. 学习Kong
+3. 整理Chrome书签
+4. 把MCPGateway和AgentGateway本地跑起来
 
 
 
@@ -15,3 +19,4 @@ Saturday November 7 Day 311 week 45 of 2026
 
 ## 3.
 处男遇到非处女的相亲对象，要怎么过自己心里这一关？
+
